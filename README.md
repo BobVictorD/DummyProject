@@ -1,9 +1,9 @@
 # Spoon Tutorial
 
 1) List
- * all packages of the project
- * all classes of the project
- * all methods of the project
+   * all packages of the project
+   * all classes of the project
+   * all methods of the project
 
 2) Insert trace for each methods
 
@@ -12,4 +12,9 @@
 4) Generate getters and setters for every public field.
 
 5) Transform classes annotated with @TransformSingleton to conform to the Singleton pattern.
+
+
+# Resources
+
+ * [Spoon](http://spoon.gforge.inria.fr/index.html)
 
